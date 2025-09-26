@@ -1,5 +1,4 @@
-# PowerBi_Project
-Global_Freelancers
+Global_Freelancers_Dashboard
 
 Project Overview
 
